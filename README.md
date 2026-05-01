@@ -1,1 +1,1 @@
-# vaf-to-gks
+# Molecular Characterization Initiative (MCI) Knowledge Pilot
