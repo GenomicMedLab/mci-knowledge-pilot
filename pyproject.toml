@@ -14,7 +14,8 @@ description = "Transform semi-structured somatic cancer variant classification k
 license = "MIT"
 license-files = ["LICENSE"]
 dependencies = [
-    "ipykernel"
+    "ipykernel",
+    "polars"
 ]
 
 [project.optional-dependencies]
