@@ -15,7 +15,8 @@ license = "MIT"
 license-files = ["LICENSE"]
 dependencies = [
     "ipykernel",
-    "polars"
+    "polars",
+    "wags_llm"
 ]
 
 [project.optional-dependencies]
