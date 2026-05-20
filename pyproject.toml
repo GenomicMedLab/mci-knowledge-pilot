@@ -16,7 +16,7 @@ license-files = ["LICENSE"]
 dependencies = [
     "ipykernel",
     "polars",
-    "wags_llm"
+    "wags_llm==0.2.1"
 ]
 
 [project.optional-dependencies]
