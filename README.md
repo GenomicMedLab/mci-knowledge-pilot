@@ -1,6 +1,8 @@
 # Molecular Characterization Initiative (MCI) Knowledge Pilot
 
-[![Actions status](https://github.com/genomicmedlab/mci_knowledge_pilot/actions/workflows/checks.yaml/badge.svg)](https://github.com/genomicmedlab/mci_knowledge_pilot/actions/checks.yaml)
+[![Actions status](https://github.com/genomicmedlab/mci_knowledge_pilot/actions/workflows/checks.yaml/badge.svg)](https://github.com/genomicmedlab/mci_knowledge_pilot/actions/checks.yaml) [![DOI](https://img.shields.io/badge/DOI-10.64898%2F2026.05.07.26352456-blue)](https://doi.org/10.64898/2026.05.07.26352456)
+
+<!-- description -->
 
 This repository contains a pilot effort to transform semi-structured somatic cancer variant classification knowledge into computable clinical assertions using [GA4GH Genomic Knowledge Standards (GKS)](https://www.ga4gh.org/work_stream/genomic-knowledge-standards/).
 
